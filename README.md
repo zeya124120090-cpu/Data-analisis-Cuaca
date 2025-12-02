@@ -1,6 +1,6 @@
 #  **Aplikasi Analisis Data Cuaca – Kelompok 6**
 
-Sumber Data: **Open-Meteo API (Gratis & Real-Time)**
+Sumber Data: **Open-Meteo API**
 Website API: [https://open-meteo.com/](https://open-meteo.com/)
 
 ---
