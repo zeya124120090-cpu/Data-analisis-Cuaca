@@ -33,7 +33,7 @@ Semua data diambil secara langsung dari:
 > **Open-Meteo Weather API**
 > [https://open-meteo.com/](https://open-meteo.com/)
 
-API ini **gratis sepenuhnya**, tidak membutuhkan API key, dan menyediakan data cuaca seperti:
+API ini **gratis**, tidak membutuhkan API key, dan menyediakan data cuaca seperti:
 
 * Suhu (temperature_2m)
 * Kelembapan (relativehumidity_2m)
