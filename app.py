@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from weather_analyzer import WeatherAnalyzer
 from db import dKota as kota
 
+c
 st.set_page_config(page_title="Analisis Data Cuaca Kelompok 6")
 st.title("🌤️ Analisis Data Cuaca Kelompok 6")
 
